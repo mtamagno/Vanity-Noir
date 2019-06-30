@@ -29,6 +29,10 @@ label start:
 
     e "Once you add a story, pictures, and music, you can release it to the world!"
 
+    show screen mapVanityNoir
+
+    e "Your screen is working!"
+
     # This ends the game.
 
     return
