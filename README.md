@@ -4,7 +4,6 @@
 
 • background dimensions: 1280 x 720
 
-
 ## Description
 
 Bla bla bla bla bla!
